@@ -1,0 +1,129 @@
+{
+  "errors": [],
+  "checks": [
+    {
+      "theme": "dark",
+      "route": 0,
+      "overflow": false,
+      "heading": "Vaktin bereketi."
+    },
+    {
+      "theme": "dark",
+      "route": 1,
+      "overflow": false,
+      "heading": "Nazik bir hatırlatma."
+    },
+    {
+      "theme": "dark",
+      "route": 2,
+      "overflow": false,
+      "heading": "Kıble pusulası."
+    },
+    {
+      "theme": "dark",
+      "route": 3,
+      "overflow": false,
+      "heading": "Dinî günler."
+    },
+    {
+      "theme": "dark",
+      "route": 4,
+      "overflow": false,
+      "heading": "Islamic."
+    },
+    {
+      "theme": "light",
+      "route": 0,
+      "overflow": false,
+      "heading": "Vaktin bereketi."
+    },
+    {
+      "theme": "light",
+      "route": 1,
+      "overflow": false,
+      "heading": "Nazik bir hatırlatma."
+    },
+    {
+      "theme": "light",
+      "route": 2,
+      "overflow": false,
+      "heading": "Kıble pusulası."
+    },
+    {
+      "theme": "light",
+      "route": 3,
+      "overflow": false,
+      "heading": "Dinî günler."
+    },
+    {
+      "theme": "light",
+      "route": 4,
+      "overflow": false,
+      "heading": "Islamic."
+    },
+    {
+      "test": "tesbih",
+      "count": "2"
+    },
+    {
+      "test": "tesbih-save",
+      "count": "2"
+    },
+    {
+      "test": "quran-search",
+      "count": 1
+    },
+    {
+      "test": "quran-reader",
+      "verses": 7
+    },
+    {
+      "test": "bookmark",
+      "value": {
+        "surah": 1,
+        "verse": 2
+      }
+    },
+    {
+      "test": "esma",
+      "count": 99
+    },
+    {
+      "test": "esma-search",
+      "count": 1
+    },
+    {
+      "test": "prayer-check",
+      "saved": [
+        true,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "test": "notification-config",
+      "value": {
+        "enabled": true,
+        "prayers": [
+          false,
+          false,
+          true,
+          true,
+          true,
+          true
+        ],
+        "offset": 0
+      }
+    },
+    {
+      "test": "calendar",
+      "events": 19
+    },
+    {
+      "test": "empty",
+      "hero": "Vakit bekleniyor"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+Namaz Team Lux 0.1 beta — Kaynak ve lisans bilgisi
+
+Kur’an veri paketi: quran-json 3.1.2, Risan Bagja Pradana.
+https://github.com/risan/quran-json
+https://cdn.jsdelivr.net/npm/quran-json@3.1.2/dist/quran_tr.json
+LICENSE.txt: Creative Commons Attribution-ShareAlike 4.0 International.
+Tam lisans: QURAN-LICENSE.txt. Paket package.json alanı CC-BY-4.0 yazsa da dağıtılan LICENSE.txt ve README CC-BY-SA 4.0 belirtir; daha kısıtlayıcı olan CC-BY-SA 4.0 esas alınmıştır.
+Paketin README kaynağına göre Arapça metin QuranEnc; Türkçe meal Turkish Directorate of Religious Affairs (Diyanet), Tanzil üzerinden.
+https://quranenc.com/en/home
+https://tanzil.net/trans/tr.diyanet
+JSON, JavaScript sabiti olarak paketlenmiş; metinler değiştirilmemiştir. Türkçe sûre adları arayüz için eklenmiştir.
+
+jsoup 1.18.3: Copyright Jonathan Hedley. MIT lisansı: JSOUP-LICENSE.txt.
+Noto Sans Arabic: Noto projesi. SIL Open Font License 1.1: FONT-LICENSE.txt.
+Gradle wrapper (kaynak arşivinde): Gradle, Apache License 2.0.
+
+Namaz vakitleri: https://namazvakitleri.diyanet.gov.tr/
+Kamuya açık resmî HTML tablolarından alınır. Diyanet’in açık lisanslı / resmî API’si olduğu iddia edilmez.
+Dinî günler: Diyanet resmî 2026 ve 2027 listeleri.
+https://vakithesaplama.diyanet.gov.tr/icerik.php?icerik=153
+https://vakithesaplama.diyanet.gov.tr/icerik.php?icerik=154
+Uygulama bağımsızdır; Diyanet’in onayı veya desteği iddia edilmez.
+
+Logo ve Kâbe arka planı bu proje için yapay zekâ ile üretilmiştir. Kâbe görseli belgesel fotoğraf değildir.
+Hadisler ekranda kaynaklarıyla belirtilir. Esmâ anlamları ve Hanefî namaz rehberi kısa eğitim özetleridir; ilmihal veya fetva yerine geçmez.

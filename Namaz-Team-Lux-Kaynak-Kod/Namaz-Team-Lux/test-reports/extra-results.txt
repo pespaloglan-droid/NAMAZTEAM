@@ -1,0 +1,7 @@
+Qibla Istanbul: 151.62058989805803
+320px route 0 overflow false
+320px route 1 overflow false
+320px route 2 overflow false
+320px route 3 overflow false
+320px route 4 overflow false
+Baqarah verses/meals: 286 286
